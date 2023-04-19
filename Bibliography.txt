@@ -1,0 +1,5 @@
+Quantum computing with neutral atoms
+https://arxiv.org/abs/2006.12326
+
+Pulser: An open-source package for the design of pulse sequences in programmable neutral-atom arrays
+https://arxiv.org/abs/2104.15044
