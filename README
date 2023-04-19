@@ -1,0 +1,22 @@
+PART 1 
+1.1 Quantum computing as a service
+1.2 Quantum speedup
+1.3 Superposition, entanglement, and interferences (a preview)
+1.4 Quantum mechanics for quantum computing [Part 1]
+1.5 Quantum mechanics for quantum computing [Part 2]
+
+PART 2 
+2.1 Hardware platforms
+2.2 Development roadmap
+2.3 PASQAL neutral atom arrays
+
+PART 3
+3.1 Simulation, optimization, and machine learning
+3.2 Analog quantum computing
+3.3 Digital quantum computing
+
+PART 4
+4.1 The Quantum Approximatite Optimization Algorithm (QAOA)
+4.2 PASQAL Quantum Evolution Kernel (QEK)
+4.3 PASQAL Differentiable Quantum Circuit (DQC)
+4.4 PASQAL Quantum Extremal Learning (QEL)
