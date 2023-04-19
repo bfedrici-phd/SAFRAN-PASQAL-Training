@@ -4,6 +4,9 @@ https://arxiv.org/abs/2006.12326
 Pulser: An open-source package for the design of pulse sequences in programmable neutral-atom arrays
 https://arxiv.org/abs/2104.15044
 
+Quantum Computation and Quantum Information
+https://www.amazon.fr/Quantum-Computation-Information-10th-Anniversary/dp/1107002176
+
 A Practical Guide to Quantum Machine Learning and Quantum Optimization: Hands-on Approach to Modern Quantum Algorithms 
 https://www.amazon.fr/Practical-Quantum-Machine-Learning-Optimization/dp/1804613835
 
