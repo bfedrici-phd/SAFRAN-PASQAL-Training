@@ -18,7 +18,7 @@ PART 3
 3.3 Digital quantum computing
 
 PART 4
-4.1 The Quantum Approximatite Optimization Algorithm (QAOA)
+4.1 The Quantum Approximate Optimization Algorithm (QAOA)
 4.2 PASQAL Quantum Evolution Kernel (QEK)
 4.3 PASQAL Differentiable Quantum Circuit (DQC)
 4.4 PASQAL Quantum Extremal Learning (QEL)
